@@ -1,0 +1,15 @@
+table,tr,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th{
+    background-color: red;
+    color: white;
+}
+@media only screen and (max-width:400px){
+    img :hover{
+        width: 25%;
+border: 3px double red;
+    }
+    
+}
